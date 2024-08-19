@@ -1,40 +1,36 @@
-Hi there, I'm Imaan 👋
+<h1 align="center">Hi 👋, I'm Imaan</h1>
+<h3 align="center">A passionate Data Scientist from Pakistan</h3>
 
-Welcome to my GitHub profile! I'm a passionate Data Scientist and Python Developer, continuously exploring the world of data and software development.
+- 🔭 I’m currently working on [Customer Segmentation Project](https://github.com/ImaanZahra/Customer-Segmentation-Project)
 
-👨‍💻 About Me
+- 🌱 I’m currently learning **Advanced Machine Learning Techniques.**
 
-🎓 Background: I'm currently pursuing a BS in Software Engineering, with a strong foundation in C/C++, Python, SQL, Object-Oriented Programming (OOP), and a growing expertise in Data Science and Machine Learning.
+- 👯 I’m looking to collaborate on **Open Source Data Science Projects**
 
-💼 Experience: I’m currently working as a Python Developer, where I've developed systems like customer order management and employee management using Python, pandas, and SQLite. Additionally, I'm diving into Django to expand my backend development skills.
+- 🤝 I’m looking for help with **Enhancing my skills in Deep Learning**
 
-🧠 Learning: I’m actively learning and applying my knowledge in Data Science, Machine Learning, and Web Development. Some of my recent projects include house price prediction, customer chrn project, customer segmentation project, and many more where I’m focusing on feature engineering and model building.
+- 👨‍💻 All of my projects are available at [https://github.com/ImaanZahra](https://github.com/ImaanZahra)
 
-🚀 Goals: My goal is to become a proficient Data Scientist, solving complex problems and contributing to impactful projects. I also aim to collaborate with other developers and data enthusiasts to build innovative solutions.
+- 💬 Ask me about **Data Science, Machine Learning, Python Programming**
 
-⚙️ Tech Stack
-Programming Languages: Python, C/C++, SQL
+- 📫 How to reach me **imaanzahra529@gmail.com**
 
-Libraries & Frameworks: pandas, NumPy, scikit-learn, matplotlib, Django
+- 📄 Know about my experiences [https://www.linkedin.com/in/imaan-zahra-/](https://www.linkedin.com/in/imaan-zahra-/)
 
-Databases: SQLite, MySQL
+- ⚡ Fun fact **I’m a tea enthusiast who codes better with every cup!**
 
-Tools: Power BI, Jupyter Notebook, Git, GitHub
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/imaan zahea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imaan zahea" height="30" width="40" /></a>
+<a href="https://fb.com/imaan zahra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imaan zahra" height="30" width="40" /></a>
+<a href="https://instagram.com/imaan zahra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imaan zahra" height="30" width="40" /></a>
+</p>
 
-🌱 Current Focus
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-Improving my Machine Learning skills with hands-on projects.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imaanzahra&show_icons=true&locale=en&layout=compact" alt="imaanzahra" /></p>
 
-Diving deeper into feature engineering and model optimization.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imaanzahra&show_icons=true&locale=en" alt="imaanzahra" /></p>
 
-Expanding my knowledge in Django for backend development.
-
-📫 How to Reach Me
-
-LinkedIn: https://www.linkedin.com/in/imaan-zahra-/
-
-Email: imaanzahra529@gmail.com
-
-Feel free to explore my repositories and get in touch if you’d like to collaborate or discuss anything tech-related!
-
-      
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imaanzahra&" alt="imaanzahra" /></p>
