@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Imaan</h1>
-<h3 align="center">A passionate Data Scientist from Pakistan</h3>
+<h3 align="center">A Passionate Data Scientist from Pakistan</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imaanzahra&label=Profile%20views&color=0e75b6&style=flat" alt="imaanzahra" /> </p>
 
 - 🔭 I’m currently working on [Customer Segmentation Project](https://github.com/ImaanZahra/Customer-Segmentation-Project)
 
@@ -21,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/imaan-zahra-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/imaan-zahra-/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/imaan.zahra.1232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/imaan.zahra.1232/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/imaanzahra_759/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/imaanzahra_759/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/imaan-zahra-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imaan-zahra-" height="30" width="40" /></a>
+<a href="https://fb.com/imaan.zahra.1232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imaan.zahra.1232" height="30" width="40" /></a>
+<a href="https://instagram.com/imaanzahra_759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imaanzahra_759" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
