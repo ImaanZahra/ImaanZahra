@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imaanzahra&label=Profile%20views&color=0e75b6&style=flat" alt="imaanzahra" /> </p>
 
-- 🔭 I’m currently working on [Customer Segmentation Project](https://github.com/ImaanZahra/Customer-Segmentation-Project)
-
 - 🌱 I’m currently learning **Advanced Machine Learning Techniques.**
 
 - 👯 I’m looking to collaborate on **Open Source Data Science Projects**
 
-- 🤝 I’m looking for help with **Enhancing my skills in Deep Learning**
+- 🤝 I’m looking for help with **Enhancing my skills in Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ImaanZahra](https://github.com/ImaanZahra)
 
